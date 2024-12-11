@@ -9,9 +9,9 @@ Due to limited tools to detect and counter false information in real time, broad
 We will address the problem by providing broadcasters with an accessible, reliable tool that flags potential misinformation, allowing for immediate intervention and correction. By identifying and verifying information as it is broadcast, our tool supports the media's role as an accurate, accountable source.
 ________________________________________
 ## Target Audience
-•	General Public
-•	Government Agencies
-•	Broadcast Media Professionals: Journalists, Producers, and editors.
+- General Public
+- Government Agencies
+- Broadcast Media Professionals: Journalists, Producers, and editors.
 ________________________________________
 ## Technical Approach
 Our tool is built on advanced NLP, machine learning, and real-time data processing technologies to provide accurate and timely misinformation detection. Below is a breakdown of our technical approach:
