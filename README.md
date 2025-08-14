@@ -1,5 +1,7 @@
 # Factual Lie
 
+NLTK Natural Language Tool Kit
+
 ## Project Description
 Our tool is a real-time misinformation detection system designed flag false or misleading information. Using advanced Natural Language Processing (NLP) techniques, tools to analyse content, identifying potential misinformation and provides real-time alerts on the dashboard. By integrating fact-checking APIs, it cross-references flagged statements with verified databases, enhancing transparency and empowering viewers with accessible fact-checking.
 The tool also includes a user-friendly dashboard that displays daily alerts with confidence scores, data sources and verification information, allowing broadcasters and journalists to make quick and informed decisions.
